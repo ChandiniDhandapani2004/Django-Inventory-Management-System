@@ -1,1 +1,1 @@
-# Django-Inventory-Management-System
+# stock-management
